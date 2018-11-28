@@ -1,0 +1,20 @@
+{
+    "name": "BNO055",
+    "provides": "BNO055.h",
+    "description": "Allows to use the IMU MKR Shield",
+    "version": "1.2.1",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Sensors",
+    "subcategory": "Attitude",
+    "family": "arm-samd",
+    "core": "arduino-samd",
+    "install": {
+        "BNO055.c": "/",
+        "BNO055.h": "/",
+        "BNO055_support.cpp": "/",
+        "BNO055_support.h": "/",
+        "examples": "/",
+        "library.properties": "/"
+    },
+    "readme": "README.md"
+}
